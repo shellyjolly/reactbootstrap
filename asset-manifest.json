@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactbootstrap/static/css/main.abd64e84.css",
+    "main.js": "/reactbootstrap/static/js/main.21f90089.js",
+    "index.html": "/reactbootstrap/index.html",
+    "main.abd64e84.css.map": "/reactbootstrap/static/css/main.abd64e84.css.map",
+    "main.21f90089.js.map": "/reactbootstrap/static/js/main.21f90089.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.21f90089.js"
+  ]
+}
